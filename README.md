@@ -13,5 +13,3 @@ Building this into a docker container, you'll get:
 	- shiny
 	- rmarkdown
 	- RColorBrewer
-	- knitr
-	- tictoc
