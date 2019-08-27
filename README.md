@@ -28,3 +28,4 @@ complete list of packages (+ dependencies):
 	- XML
 	- htmlwidgets
 	- highcharter
+	- readxl

@@ -16,3 +16,4 @@ Building this into a docker container, you'll get:
 	- XML
 	- htmlwidgets
 	- highcharter
+	- readxl
