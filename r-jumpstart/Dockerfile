@@ -1,6 +1,6 @@
 FROM rocker/r-ver:3.5.3
 
-LABEL maintainer "Sandro Raabe <sa.ra.online@posteo.de>"
+LABEL maintainer="Sandro Raabe <sa.ra.online@posteo.de>"
 
 # system libraries of general use
 RUN apt-get update -qq && apt-get -y --no-install-recommends install \
